@@ -17,7 +17,7 @@ In these roles I worked hands-on with **Kubernetes, Docker, Linux servers, datab
 - 🤖 Actively using **AI tools** in my daily workflow (prompt engineering, API integration)
 - 📚 Preparing for **AZ-900 Microsoft Azure Fundamentals** & **PCEP Python** certifications
 - 💬 Languages: 🇹🇷 Turkish · 🇩🇪 German (B2) · 🇬🇧 English (Professional)
-- 📫 Reach me: **abdulkadir.yz99@gmail.com**
+- 📫 Reach me: 
 
 ---
 
@@ -56,11 +56,11 @@ In these roles I worked hands-on with **Kubernetes, Docker, Linux servers, datab
 
 ## 💼 Work Experience Highlights
 
-| Period | Role | Company |
-|--------|------|---------|
-| 08/2023 – 05/2024 | **Project Manager & IT Consultant** | KOBIL GmbH, Worms 🔐 |
-| 03/2022 – 05/2023 | **Planning Officer & IT Consultant** | Mespa Medical, Turkey 🏥 |
-| 08/2020 – 01/2022 | **R&D Engineer (Student → Full)** | Liberta Software Inc. 🤖 |
+| Role | Company |
+|------|---------|
+| **Project Manager & IT Consultant** | KOBIL GmbH, Worms 🔐 |
+| **Planning Officer & IT Consultant** | Mespa Medical, Turkey 🏥 |
+| **R&D Engineer (Student → Full)** | Liberta Software Inc. 🤖 |
 
 At **KOBIL** I managed app versions, wrote technical documentation, handled customer integrations, and supported the dev team directly.  
 At **Liberta Software** I developed barcode sensor systems (partnered with **SICK AG**) and programmed a health tracking app for veterinary use.
