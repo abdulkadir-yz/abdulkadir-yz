@@ -16,7 +16,7 @@ In these roles I worked hands-on with **Kubernetes, Docker, Linux servers, datab
 - 🔭 Currently building skills in **C# / ASP.NET, React, TypeScript, Azure Cloud & LLM integration**
 - 🤖 Actively using **AI tools** in my daily workflow (prompt engineering, API integration)
 - 📚 Preparing for **AZ-900 Microsoft Azure Fundamentals** & **PCEP Python** certifications
-- 💬 Languages: 🇹🇷 Turkish · 🇩🇪 German (B2) · 🇬🇧 English (Professional)
+- 💬 Languages: 🇹🇷 Turkish · 🇩🇪 German  · 🇬🇧 English 
 - 📫 Reach me: 
 
 ---
