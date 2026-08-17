@@ -8,7 +8,7 @@ I spent ~6 years on the operations side of software — Kubernetes clusters, Lin
 
 ## About
 
-My background is infrastructure and delivery: at **KOBIL GmbH** (cybersecurity/IAM) I managed application versions, wrote technical documentation and handled customer integrations, working directly alongside the dev team. Before that I worked on planning, consulting and R&D roles involving industrial sensor systems and custom enterprise applications.
+My background is infrastructure and delivery: at **KOBIL GmbH** (cybersecurity/IAM) I managed application versions, wrote technical documentation and handled customer integrations, working directly alongside the dev team. Before that I worked on planning,IT consulting and R&D roles involving industrial sensor systems and custom enterprise applications.
 
 That experience shapes how I write code. I care about deployability, clear API contracts, and what happens to a service after it ships — not only whether the tests are green.
 
