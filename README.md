@@ -1,108 +1,97 @@
-# Hello, I'm Abdulkadir 👋
+# Abdulkadir Yılmaz
 
-🎓 **Electrical & Electronic Engineer** turned **Software Developer**  
-🏗️ Transitioning into **Backend Engineering | Microservices | Cloud & AI**  
-📍 Based in **Germany**  
-🚀 Currently leveling up at **WBS Coding School** — Software Engineering & AI Bootcamp
+**Fullstack Developer** — .NET / TypeScript, backend-focused · Electrical & Electronics Engineer (B.Sc.) · Worms, Germany
 
----
-
-## 🙋‍♂️ About Me
-
-I'm an engineer with a strong technical foundation — I hold an **Honor's Degree in Electrical & Electronic Engineering** (GPA 3.43/4.00) and have built real-world experience working as a **Project Manager & IT Consultant** at companies like **KOBIL GmbH** (cybersecurity), **Mespa Medical**, and **Liberta Software**.
-
-In these roles I worked hands-on with **Kubernetes, Docker, Linux servers, databases, and custom enterprise applications** — which gave me a deep appreciation for how software actually runs in production. Now I'm making the deliberate move into **software development**, with a focus on **backend systems, frontend developer, microservices architectures, and AI integration**.
-
-- 🔭 Currently building skills in **C# / ASP.NET, React, TypeScript, Azure Cloud & LLM integration**
-- 🤖 Actively using **AI tools** in my daily workflow (prompt engineering, API integration)
-- 📚 Preparing for **AZ-900 Microsoft Azure Fundamentals** & **PCEP Python** certifications
-- 💬 Languages: 🇹🇷 Turkish · 🇩🇪 German  · 🇬🇧 English 
-- 📫 Reach me: 
+I spent ~6 years on the operations side of software — Kubernetes clusters, Linux servers, IAM integrations, release management and enterprise IT consulting. Now I build the systems I used to deploy and run.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### ⚙️ Infrastructure & DevOps *(hands-on experience)*
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+My background is infrastructure and delivery: at **KOBIL GmbH** (cybersecurity/IAM) I managed application versions, wrote technical documentation and handled customer integrations, working directly alongside the dev team. Before that I worked on planning, consulting and R&D roles involving industrial sensor systems and custom enterprise applications.
 
-### 💻 Programming & Scripting *(hands-on experience)*
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+That experience shapes how I write code. I care about deployability, clear API contracts, and what happens to a service after it ships — not only whether the tests are green.
 
-### 🧪 Testing & Project Tools *(hands-on experience)*
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+I work across the whole stack — ASP.NET Core and Node.js services on one end, React and Next.js interfaces on the other — with my centre of gravity on the backend: API design, data modelling and integration work.
 
-### 🚀 Currently Learning @ WBS Coding School
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Current focus: **C# / ASP.NET Core** and LLM integration in production applications.
 
 ---
 
-## 💼 Work Experience Highlights
+## Tech
 
-| Role | Company |
-|------|---------|
-| **Project Manager & IT Consultant** | KOBIL GmbH, Worms 🔐 |
-| **Planning Officer & IT Consultant** | Mespa Medical, Turkey 🏥 |
-| **R&D Engineer (Student → Full)** | Liberta Software Inc. 🤖 |
+**Backend** — C#, ASP.NET Core, Entity Framework Core, REST APIs, SignalR, Node.js, Express
+**Frontend** — TypeScript, React, Next.js
+**Data** — SQL Server, PostgreSQL, MongoDB
+**Infrastructure** — Docker, Kubernetes, Helm, Linux, Keycloak, CI/CD, Azure
+**AI integration** — LLM APIs, Semantic Kernel, prompt engineering, agentic workflows
 
-At **KOBIL** I managed app versions, wrote technical documentation, handled customer integrations, and supported the dev team directly.  
-At **Liberta Software** I developed barcode sensor systems (partnered with **SICK AG**) and programmed a health tracking app for veterinary use.
-
----
-
-## 🎓 Education & Certifications
-
-- 🏅 **B.Sc. Electrical & Electronic Engineering** — *(Honor Degree, GPA 3.43/4.0)*
-- 📘 **Software Engineering & AI Bootcamp** — WBS Coding School *(2026–2027 in progress)*
-- 🔜 **AZ-900 Microsoft Azure Fundamentals** *(in progress)*
-- 🔜 **PCEP – Python Entry-Level Programmer** *(in progress)*
-
----
-
-## 🎯 What I'm Building Toward
-
-```
-Backend Engineer  ──►  Microservices Architect  ──►  Cloud & AI Integration
-     C# / ASP.NET           Docker / K8s                  Azure / LLMs
-     RESTful APIs           API Gateway                   Agentic Systems
-     SQL / Databases        CI/CD Pipelines               OpenAI / LangFlow
-```
-
-My background in **IT operations and infrastructure** gives me a practical edge — I already understand how software is deployed, managed, and monitored at scale. Now I'm focused on becoming the developer who also *builds* those systems.
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🤖 AI in My Workflow
+## How I work
 
-I don't just learn about AI — I actively use it:
-- Prompt engineering for real productivity gains
-- API integration with LLMs in projects
-- Exploring **multi-agent systems** and **no/low-code AI automation** (n8n, LangFlow)
+AI-assisted development is part of my normal workflow, not an experiment. I use **Claude Code** daily as an agentic coding tool — for navigating unfamiliar codebases, refactoring across multiple files, generating and extending test suites, and debugging. It runs in my terminal and integrates with my JetBrains setup (Rider for .NET, WebStorm for TypeScript).
 
----
+On the building side, I integrate LLMs into applications directly: **Semantic Kernel** for orchestration in .NET, provider APIs for inference, and locally hosted models via **Ollama** where data needs to stay on-premise. I also work with **n8n** and **LangFlow** for automation and agentic workflows.
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-yilmaz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkadir.yz99@gmail.com)
+The distinction I care about: knowing when the tool accelerates me and when it's producing plausible code I'd have to unpick later. Reviewing what comes out is the actual skill.
 
 ---
 
-*"Engineering taught me how systems fail. Software engineering teaches me how to build ones that don't."* 🚀
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [events-platform](https://github.com/abdulkadir-yz/events-platform) | Full-stack event management application in a monorepo setup — REST API, data layer and client in one repository. | Node.js, Express, TypeScript, MongoDB, React |
+| [fake-e-commerce-react-nextjs](https://github.com/abdulkadir-yz/fake-e-commerce-react-nextjs) | E-commerce storefront with product catalog, cart state and routing. | Next.js, React, TypeScript |
+| [wbs-pokedex](https://github.com/abdulkadir-yz/wbs-pokedex) | API-driven catalog app focused on data fetching, pagination and component composition. | React, JavaScript |
+| [react-learning-journey](https://github.com/abdulkadir-yz/react-learning-journey) | Working repository documenting React patterns, hooks and state management as I learn them. | React |
+
+Alongside these I'm building a **private SaaS project** — an ASP.NET Core backend with a Next.js frontend, LLM orchestration through Semantic Kernel, Stripe for payments and Azure for deployment.
+
+---
+
+## Experience
+
+| Role | Company | Field |
+|---|---|---|
+| Project Manager & IT Consultant | KOBIL GmbH, Worms | Cybersecurity / IAM |
+| Planning Officer & IT Consultant | Mespa Medical | Medical technology |
+| R&D Engineer | Liberta Software | Industrial automation |
+
+At **Liberta Software** I developed barcode sensor systems in a partnership with **SICK AG** and built a health tracking application for veterinary use.
+
+---
+
+## Education & Certification
+
+- **B.Sc. Electrical & Electronics Engineering** — Honours degree, GPA 3.43/4.00
+  *Recognised at Bachelor level by the German ZAB (Zentralstelle für ausländisches Bildungswesen)*
+- **Software Engineering & AI** — WBS Coding School, Germany (AZAV-certified) · in progress
+- **AZ-900 Microsoft Azure Fundamentals** · in progress
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-yilmaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulkadir.yz99@gmail.com)
+
+Open to **fullstack and backend roles** (.NET / TypeScript) in Germany and the EU. Languages: Turkish (native), German, English.
+
+---
+
+*"Engineering taught me how systems fail. Software engineering teaches me how to build ones that don't."*
