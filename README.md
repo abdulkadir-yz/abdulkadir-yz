@@ -2,7 +2,7 @@
 
 **Fullstack Developer** — .NET / TypeScript, backend-focused · Electrical & Electronics Engineer (B.Sc.) · Worms, Germany
 
-I spent ~6 years on the operations side of software — Kubernetes clusters, Linux servers, IAM integrations, release management and enterprise IT consulting. Now I build the systems I used to deploy and run.
+I spent ~6 years on the operations side of software and IT — Product Customization, Linux servers,App Testen, IAM integrations, release management and enterprise IT consulting. Now I build the systems I used to deploy and run.
 
 ---
 
