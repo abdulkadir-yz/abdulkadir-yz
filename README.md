@@ -7,12 +7,36 @@
 
 I'm an engineer with ~6 years of IT experience in DevOps, IAM and cybersecurity
 (KOBIL GmbH, Mespa Medical, Liberta Software). I know how software is deployed,
-secured and operated in production, and now I'm learning to build it.
+secured and operated in production, and now I build it end to end: Fork Club is a
+tested, security-scanned app with a running demo.
 
 - **Backend:** C# / ASP.NET Core with EF Core, Identity and JWT
 - **Frontend:** React and Next.js; TypeScript with Node.js / Express
 - **AI:** Built a FHIR project that uses a locally hosted LLM with a grounding check;
-  I use Claude Code in my daily development workflow
+  I use Claude Code in my daily development workflow (see below)
+
+## Currently building
+
+**[Fork Club](https://forkclub.de/)** *(pre-launch · private repo)*
+Fresh meals waiting in your gym's fridge. Members plan their meals once a week, a partner
+kitchen cooks exactly what was ordered and delivers every morning, and members pick up
+their box after training. A demo is running; first pilot planned in Germany.
+
+- **Backend:** .NET 10 · ASP.NET Core Web API · EF Core 10 · Azure SQL · JWT with Microsoft Entra External ID · Azure Blob Storage
+- **Frontend:** React 19 · TypeScript · Vite · TanStack Query · Tailwind CSS · MSAL
+- **Delivery:** Docker (chiseled images) · Azure Container Apps + Container Apps Jobs (weekly cutoff, nightly closing, migrations) ·
+  GitHub Actions with OIDC to Azure (no stored secrets)
+- **Quality & security:** xUnit integration tests against real SQL Server · Playwright E2E · Trivy · gitleaks · Dependabot
+
+## How I work with AI
+
+I use **Claude Code** as a pair programmer, not as autocomplete: I own the design,
+review every change, and let tests decide when something is done.
+
+- **Plan → test → review:** brainstorm and plan first, TDD while building, code review before merging
+- **Verified, not trusted:** xUnit integration and Playwright E2E tests, Claude Security scans, gitleaks / Trivy in CI
+- **Grounded in real docs:** MCP servers (Context7, Microsoft Learn), JetBrains Rider, Playwright
+- **Custom tooling:** my own Claude Code skills and project memory (e.g. a Fork Club brand kit skill); Remotion for promo videos as code
 
 ## Tech Stack
 
@@ -21,7 +45,9 @@ secured and operated in production, and now I'm learning to build it.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Frontend & JavaScript / TypeScript**
 
@@ -38,6 +64,7 @@ secured and operated in production, and now I'm learning to build it.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Background (from IT / DevOps work)**
@@ -77,7 +104,7 @@ Product listing, dynamic product pages and a cart persisted with React Context a
 
 - B.Sc. Electrical & Electronics Engineering, Honors (CGPA 3.43/4.00)
 - Software Engineering & AI Bootcamp, WBS Coding School (in progress)
-- AZ-900 Microsoft Azure Fundamentals (in progress)
+- AZ-900 Microsoft Azure Fundamentals (in progress, exam planned December 2026)
 
 ## Languages
 
@@ -89,4 +116,4 @@ Junior full-stack / .NET developer roles and internships in Germany.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/abdulkadiryilmaz) · [Email](mailto:abdulkadir.yz99@gmail.com)
+[Portfolio](https://abdulkadir-yz.github.io/) · [LinkedIn](https://www.linkedin.com/in/abdulkadiryilmaz) · [Email](mailto:abdulkadir.yz99@gmail.com)
